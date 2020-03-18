@@ -14,7 +14,8 @@
         "guzzlehttp/guzzle": "^6.3",
         "jaeger/querylist": "^4.1",
         "laravel/framework": "^7.0",
-        "laravel/tinker": "^2.0"
+        "laravel/tinker": "^2.0",
+        "mpociot/laravel-apidoc-generator": "^4.4"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
